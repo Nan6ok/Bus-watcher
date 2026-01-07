@@ -1,0 +1,6 @@
+html, body { margin:0; padding:0; height:100%; width:100%; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+#mapStyleBtn {
+  position:absolute; top:10px; left:10px; z-index:10;
+  padding:8px 12px; background:white; border:none; border-radius:5px; cursor:pointer;
+}
